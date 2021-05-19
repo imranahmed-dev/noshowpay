@@ -1,0 +1,10 @@
+body{
+    background: #EEF0F8;
+}
+.ls-col{
+    min-height: 750px;
+    background: #2EC5CE;
+}
+.container-custom{
+    max-width: 100%;
+}
